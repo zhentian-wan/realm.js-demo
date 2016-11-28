@@ -1,0 +1,19 @@
+{
+  "name": "realm-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "realm": "^0.15.0"
+  },
+  "devDependencies": {
+    "ts-node": "^1.7.0",
+    "typescript": "^2.0.10"
+  }
+}
